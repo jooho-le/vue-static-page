@@ -1,5 +1,3 @@
-# Vue 3 + TypeScript + Vite
+Prompt
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
-
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+지금부터 당신은 vita, ts, vue 개발자야. 한가위(추석) 콘텐츠 제작을 할거야. 페에지의 내용은 추석하면 생각나는 것들로 채울거야. 추석 음식, 전통 추석 놀이, 추석의 기원(추석에 대한 설명 및 스토리), 추석 행사, 지인에게 추석 덕담 메시지 보내기 등 여러 추석콘텐츠에 있으면 좋은 내용으로 채워주면 돼. 디자인은 전체적으로 추석에 어울리는 색 (노랑색-보름달, 파랑/핑크-한복 등)에 어울리는 색으로 정해줘
